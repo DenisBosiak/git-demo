@@ -1,2 +1,4 @@
 It's test text
 for learning
+And it's next
+two lines.
